@@ -28,7 +28,7 @@
 }
 
 .header__links-list-item_no-bullit {
-    list-style: none;    
+    list-style: none;
 }
 
 .header__link_active { 
@@ -167,7 +167,7 @@
     flex-wrap: wrap;
     gap:25px;
     margin-bottom: 30px;
-    list-style-type: none; 
+    list-style-type: none;
 }
 
 .lots__card-list-item {
@@ -196,7 +196,7 @@
 }
 
 .card_type_film {
-    background-image: url("../images/card-lot-01.jpg");    
+    background-image: url("../images/card-lot-01.jpg");
 }
 
 .card_type_book {
@@ -204,7 +204,7 @@
 }
 
 .card_type_picture {
-    background-image: url("../images/card-lot-03.jpg");  
+    background-image: url("../images/card-lot-03.jpg");
 }
 
 .card__title {
@@ -262,7 +262,7 @@
 
 .about__logo-image {
     display: block;
-    height: 114px;   
+    height: 114px;
 }
 
 .about__title {
@@ -272,7 +272,7 @@
     font-weight: 700;
     line-height: 46.96px;
     text-transform: uppercase;
-    color:#000000; 
+    color:#000000;
 }
 
 .about__text {
@@ -299,7 +299,7 @@
 }
 
 .footer__menu-list {
-    list-style-type: none; 
+    list-style-type: none;
 }
 
 .footer__menu-list-item {   
