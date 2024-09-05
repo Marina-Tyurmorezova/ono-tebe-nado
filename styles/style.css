@@ -305,7 +305,6 @@
 .footer__menu-list-item {
     text-decoration: underline;
     text-underline-offset: 4px;
-
 }
 
 .footer__menu-link_active {
@@ -316,7 +315,6 @@
     display: flex;
     gap:48px;
     list-style-type: none;
-
 }
 
 .footer__social-icon {
