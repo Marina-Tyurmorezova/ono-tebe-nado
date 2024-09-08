@@ -84,7 +84,6 @@
 }
 
 .cover__title {
-    padding-top: 96px;
     display: flex;
     flex-flow: column nowrap;
     position:relative;
@@ -100,7 +99,7 @@
     display: block;
     text-align: start;
     padding-left: 50px;
-    padding-top:75px;
+    padding-top:171px;
 }
 
 .aligned-text_center {
