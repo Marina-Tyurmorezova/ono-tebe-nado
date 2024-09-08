@@ -64,8 +64,7 @@
 }
 
 .cover {
-    padding: 96px 0 179px 0;
-    max-height: 757px;
+    min-height: 757px;
     background-image: url("../images/cover.jpg");
     background-size: cover;
     background-position: center;
@@ -85,6 +84,7 @@
 }
 
 .cover__title {
+    padding-top: 96px;
     display: flex;
     flex-flow: column nowrap;
     position:relative;
@@ -153,7 +153,7 @@
     border-style: solid;
     border-color: white;
     z-index: 1;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-size: 22px;
     font-weight: 500;
     line-height: 25.83px;
